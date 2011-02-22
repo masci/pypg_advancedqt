@@ -1,0 +1,6 @@
+[submodule "meta"]
+	path = meta
+	url = git://gist.github.com/838979.git
+[submodule "mixins"]
+	path = mixins
+	url = git://gist.github.com/838983.git
